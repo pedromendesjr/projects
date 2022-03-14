@@ -17,6 +17,6 @@ Formado na UFSC, atualmente sou professor de Matemática e um data scientist em 
 ## Projetos:
 Veja a minha lista de projetos publicados:
 
-* **Projeto 1 - Análise do Airbnb - Hawaii:** [Link1](https://colab.research.google.com/drive/1b4qBOY9Wqc2Sl_Ya25x4rd4Sa1aqbu5l?usp=sharing)
+* **Projeto 1 - Análise do Airbnb - Hawaii:** [Link para o Google Colab](https://colab.research.google.com/drive/1b4qBOY9Wqc2Sl_Ya25x4rd4Sa1aqbu5l?usp=sharing)
 
 ---
